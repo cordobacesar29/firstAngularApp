@@ -9,7 +9,7 @@ export class EmpleadoComponent implements OnInit {
   nombre="Juan";
   apellido="Diaz";
   edad=20;
-  empresa="Google";
+  //empresa="Google";
   constructor() { }
 
   ngOnInit(): void {
